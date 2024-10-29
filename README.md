@@ -33,7 +33,7 @@ Based on various meteorological surveys and people's styles, the service provide
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
--Demand of bikes depend on year, holiday, temp, windspeed, sep, Light_snowrain, Misty, spring, summer and winter
+-Demand of bikes depend on year, holiday, temp, Light_snowrain,spring majorly.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
